@@ -1,3 +1,4 @@
+![logo](https://media-exp1.licdn.com/dms/image/C4E12AQFRhw0xN-Dr9A/article-cover_image-shrink_600_2000/0/1599649394493?e=2147483647&v=beta&t=e_gcrig_cWJqz9Io8bZ1iSFKHJZMtILfEqdSLVzKevM)
 <h1 align="center">Hi 👋, I'm Varun Sai Kanuri</h1>
 <h3 align="center">A passionate Data Nerd from India</h3>
 
