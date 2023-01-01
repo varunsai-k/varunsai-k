@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 📫 How to reach me **varunsaikanuri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
