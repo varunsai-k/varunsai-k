@@ -4,10 +4,10 @@
 
 
 
-<b>Skills:</b> Python | Plotly | SQL | Tableau <br>
+<b>Skills:</b> Python | Plotly | SQL  <br>
 
-- 🔭 I’m currently working on Data Science Projects 
-- 🌱 I’m currently learning Machine Learnig 
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently learning Deep Learning
 - 📫 Reach out to me: varunsaikanuri@gmail.com 
 <br>
 
