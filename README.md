@@ -4,9 +4,9 @@
 
 
 
-<b>Skills:</b> Python | Plotly | SQL  <br>
+<b>Skills:</b> Python | LangChain | SQL  <br>
 
-- 🔭 I’m currently working on Machine Learning Projects
+- 🔭 I’m currently working on Generative AI
 - 🌱 I’m currently learning Deep Learning
 - 📫 Reach out to me: varunsaikanuri@gmail.com 
 <br>
