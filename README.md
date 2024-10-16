@@ -1,16 +1,27 @@
+### Hi there 👋 I'm Varun an Engineer
 
-<p align='center'><h2 align='Center'>Hi, This is Varun 🧑‍💻</h2></p>
-<p align='center'><h4 align='Center'>Data Analytics | Data Science | Machine Learning</h4></p>
+- 👨🏻‍💻 I’m currently working on Gen AI at [TCS](https://www.tcs.com/).
+- 🔬 I’m currently learning about <b>Multi AI Agent Systems, RAG and building Gen AI Applications.</b>
+- 📫 How to reach me: Email me at varunsaikanuri@gmail.com
 
+### Skills 🛠️
+- **Languages**:&nbsp;                         Python, SQL
+- **DS/ML**:  &nbsp;&nbsp;                 Pandas, SkLearn, Spacy, Plotly 
+- **Gen AI Frameworks**:&nbsp;&nbsp;&nbsp;&nbsp;LangChain, LangGraph, PEFT, LoRa, QLoRA
+- **Vector Databases**:&nbsp; Chroma, FAISS, Qdrant
 
+### Projects 🐾
+- [Recipe Suggestor Agent](https://github.com/varunsai-k/Visual-QA-Bot) - your last minute recipe suggestor powered by gemini and langgraph
+- [TalkToPDF Bot](https://github.com/varunsai-k/TalkToPDF) - RAG based Intelligent assistant for navigating and understanding the information within your PDF.
+- [Visual QA Bot](https://github.com/varunsai-k/Visual-QA-Bot) - AI-powered question-answer bot that allows you to explore the world of images through conversation.
 
-<b>Skills:</b> Python | LangChain | SQL  <br>
+### Certifications 📜
+- [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/accomplishments/f27787f8-27f3-4f95-a589-17e580aefc7d?usp=sharing) @ DeepLearning.AI
+- [LangChain for LLM Application Development](https://learn.deeplearning.ai/accomplishments/f720ebf5-6730-4056-b670-47d55b8cfd4f?usp=sharing) @ DeepLearning.AI
+- [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/82c0ed1c-8f0b-4765-8099-3f53444bf23b?usp=sharing) @ DeepLeraning.AI
 
-- 🔭 I’m currently working on Generative AI
-- 🌱 I’m currently learning Deep Learning
-- 📫 Reach out to me: varunsaikanuri@gmail.com 
-<br>
+### Achievements 🏆
+- 3x Expert [@Kaggle](https://www.kaggle.com/varunsaikanuri)
 
-<b>Reach Out Me:</b>   
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-sai-kanuri-089b34226/)  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varunsaikanuri)  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsai-k)  [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunsaikanuri)  
+More information in my [LinkedIn](https://www.linkedin.com/in/varun-sai-kanuri-089b34226/) 🚀
+ 
