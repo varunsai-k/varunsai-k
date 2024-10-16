@@ -5,8 +5,8 @@
 - 📫 How to reach me: Email me at varunsaikanuri@gmail.com
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL
-- **DS/ML**:  &nbsp;&nbsp;                 Pandas, SkLearn, Spacy, Plotly 
+- **Languages**:&nbsp;                         Python, Java
+- **DS/NLP/ML**:  &nbsp;&nbsp;                 Pandas, Matplotlib, Seaborn, Plotly, Spacy, Sklearn
 - **Gen AI Frameworks**:&nbsp;&nbsp;&nbsp;&nbsp;LangChain, LangGraph, PEFT, LoRa, QLoRA
 - **Vector Databases**:&nbsp; Chroma, FAISS, Qdrant
 
