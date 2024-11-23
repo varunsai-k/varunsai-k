@@ -11,6 +11,7 @@
 - **Vector Databases**:&nbsp; Chroma, FAISS, Qdrant
 
 ### Projects 🐾
+- [Shoppy](https://github.com/varunsai-k/Shoppy) - Personal Shopping Agent, Built with LangGraph and Streamlit.
 - [Recipe Suggestor Agent](https://github.com/varunsai-k/RecipeSuggestorAgent) - last minute recipe suggestor powered by gemini and langgraph
 - [TalkToPDF Bot](https://github.com/varunsai-k/TalkToPDF) - RAG based Intelligent assistant for navigating and understanding the information within your PDF.
 - [Visual QA Bot](https://github.com/varunsai-k/Visual-QA-Bot) - AI-powered question-answer bot that allows you to explore the world of images through conversation.
