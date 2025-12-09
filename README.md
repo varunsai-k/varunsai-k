@@ -11,6 +11,7 @@
 - **Vector Databases**:&nbsp; Chroma, FAISS, Qdrant
 
 ### Projects 🐾
+- [ShopWise](https://github.com/varunsai-k/ShopWise) - Intelligent Multi-Agent Shopping Assistant (LangGraph + FastAPI + Streamlit)
 - [Shoppy](https://github.com/varunsai-k/Shoppy) - Personal Shopping Agent, Built with LangGraph and Streamlit.
 - [Recipe Suggestor Agent](https://github.com/varunsai-k/RecipeSuggestorAgent) - last minute recipe suggestor powered by gemini and langgraph
 - [TalkToPDF Bot](https://github.com/varunsai-k/TalkToPDF) - RAG based Intelligent assistant for navigating and understanding the information within your PDF.
