@@ -1,16 +1,17 @@
 ### Hi there 👋 I'm Varun an Engineer
 
-- 👨🏻‍💻 I’m currently working on Gen AI at [TCS](https://www.tcs.com/).
-- 🔬 I’m currently learning about <b>Multi AI Agent Systems, RAG and building Gen AI Applications.</b>
+- 👨🏻‍💻 I’m currently working on AGI at [TCS](https://www.tcs.com/).
+- 🔬 I’m currently building <b>Multi AI Agent Systems, RAG and LLM Applications.</b>
 - 📫 How to reach me: Email me at varunsaikanuri@gmail.com
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         Python, Java
 - **DS/NLP/ML**:  &nbsp;&nbsp;                 Pandas, Matplotlib, Seaborn, Plotly, Spacy, Sklearn
-- **Gen AI Frameworks**:&nbsp;&nbsp;&nbsp;&nbsp;LangChain, LangGraph, PEFT, LoRa, QLoRA
+- **Gen AI Frameworks**:&nbsp;&nbsp;&nbsp;&nbsp;LangChain, LangGraph, LangSmith, PEFT, LoRa, QLoRA
 - **Vector Databases**:&nbsp; Chroma, FAISS, Qdrant
 
 ### Projects 🐾
+- [Agentic AI for Enterprise Support Operations](https://github.com/varunsai-k/agentic-ai-ticket-resolution) - Agentic AI-powered ticket resolution system with RAG, human-in-the-loop approvals, AI Ops dashboard, and LangGraph orchestration.
 - [ShopWise](https://github.com/varunsai-k/ShopWise) - Intelligent Multi-Agent Shopping Assistant (LangGraph + FastAPI + Streamlit)
 - [Shoppy](https://github.com/varunsai-k/Shoppy) - Personal Shopping Agent, Built with LangGraph and Streamlit.
 - [Recipe Suggestor Agent](https://github.com/varunsai-k/RecipeSuggestorAgent) - last minute recipe suggestor powered by gemini and langgraph
